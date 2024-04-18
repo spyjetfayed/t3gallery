@@ -1,5 +1,6 @@
-# Theo-0-to-production
+# From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)
 
+source: https://www.youtube.com/watch?v=d5x0JCZbAJs&t=1575
 
 ## Technologies used
 NextJs & React
@@ -15,7 +16,7 @@ sentry (error management)
 
 ## TODO
 
-- [ ] Deploy
+- [x] Deploy
 - [ ] Scafold basic ui with mock data
 - [ ] Actually set up a database (vercel postgres)
 - [ ] Attach database to UI
@@ -26,4 +27,3 @@ sentry (error management)
 - [ ] Delete button (w/ Server actions)
 - [ ] Analytics (posthog)
 - [ ] Ratelimiting (upstash)
-- [ ] 
