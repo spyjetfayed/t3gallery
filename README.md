@@ -18,6 +18,7 @@ sentry (error management)
 
 - [x] Deploy
 - [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
 - [ ] Actually set up a database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (clerk)
